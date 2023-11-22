@@ -6,15 +6,15 @@
 
   $Revision: 41981 b469d519b41034f7622245f52b01f620c0e5ec7e $
   $Date: 2020-07-31 19:59:58 $
-  
+
   FORKID {A4D747BD-FEEF-4CE2-86CD-0D56966792FA}
 */
 
 //Shem Johnson 2021 - Edited by AramcoPhil 2022
 
 description = "Milo V1.5 Post by AramcoPhil";
-vendor = "Millenium Machines";
-vendorUrl = "https://www.millenniummachines.com/";
+vendor = "Millennium Machines";
+vendorUrl = "https://www.millennium-machines.com/";
 legal = "Copyright (C) 2012-2018 by Autodesk, Inc.";
 certificationLevel = 2;
 minimumRevision = 24000;
@@ -552,7 +552,7 @@ function onSection() {
         }
       }
     }
-    
+
   }
   if (insertToolCall ||
     isFirstSection() ||
@@ -570,7 +570,7 @@ function onSection() {
         (getParameter("operation:cycleType") == "left-tapping") ||
         (getParameter("operation:cycleType") == "tapping-with-chip-breaking"));
     if (!tapping || (tapping && !(properties.useRigidTapping == "without"))) {
-      
+
 
     }
     //writeBlock(mFormat.format(98) + " P\"/macros/move-to-probe-location-in-g55.g\"");
