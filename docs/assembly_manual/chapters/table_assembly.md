@@ -68,5 +68,5 @@ Use M5x12mm BHCS to attach the table bolt-down brackets to each corner of the el
 
 ---
 !!! success ":fontawesome-solid-champagne-glasses: Congratulations!"
-    You're to move onto your electronics and cabling! Head over to
-    the [Electronics Manual](../../electronics_manual/index.md) to get started!
+    You're ready to move onto your electronics and cabling! Head over to
+    the [Electronics Manual](../../electronics_manual/chapters/introduction.md) to get started!

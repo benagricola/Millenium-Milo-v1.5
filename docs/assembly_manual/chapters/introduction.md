@@ -15,14 +15,17 @@ A machine that can easily electrocute you, cut you or set fire to your whole nei
 
     After all, you are special to us and we don't want you to get hurt.
 
-Most importantly from everyone at the Millennium Machines design team,
-Have fun building your very first Milo!
+Most importantly from everyone at the Millennium Machines team, have fun building your very first Milo!
+
+---
 
 ## Bill of Materials
 
 Provided [here](../../bom/sourcing_guide.md) is the bill of materials. Whilst we recommend that you try to stick to this list as much as possible, you're an adult (hopefully) and this is your machine. If there is a substitution that you think would lead to a better machine then feel free! If there is a feature you don't feel is necessary then don't buy the parts for it.
 
 Furthermore, there are options in the guide that are up to you to decide on, such as drivers, motors and even control boards. Do your research and find what you need to make your build work for you.
+
+---
 
 ## Spindle Selection
 
@@ -41,26 +44,26 @@ The Millennium Machines team has provided a printing list with settings for you 
 
 Remember, these settings are only a guideline, and are open to your own interpretations - but we do highly recommend following them to achieve the best mechanical properties for each individual part.
 
-## File Naming
+### File Naming
 
 With your STL files downloaded and your printer warmed up, you may be wondering which parts to print in your favorite colors? Have no fear, we've got your back - each file is labelled.
 
-### Primary Color
+#### Primary Color
 
 Example: `Handwheel Body x2.stl`
 These files have no prefix in their filename so are safe to print in your primary color.
 
-### Accent Color
+#### Accent Color
 
 Example: `[a] Table Bolt Down Bracket A x2.stl`
 These files are prefixed with `[a]` and are intended to be printed in your chosen accent color.
 
-### Quantity Required
+#### Quantity Required
 
 Example: `Handwheel Body x2.stl`
 If any file ends with `x#`, that is telling you the quantity of that part required to build the machine.
 
-### Part Versions
+#### Part Versions
 
 Example: `Skirt Front A xxxxxx.stl`
 

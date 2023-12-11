@@ -3,19 +3,23 @@ repo_url: https://github.com/MillenniumMachines/Milo-v1.5
 edit_uri: edit/main/docs/
 nav:
   - Home: index.md
-  - Sourcing Guide: bom/sourcing_guide.md
-  - Printing Guide: printing/print_guide.md
-  - Frequently Asked Questions: faq.md
-  - Assembly Manual:
-      - Acknowledgements: assembly_manual/chapters/acknowledgements.md
-      - Introduction: assembly_manual/chapters/introduction.md
-      - Hardware Reference: assembly_manual/chapters/hardware_reference.md
-      - Y-Axis Assembly: assembly_manual/chapters/y_axis_assembly.md
-      - X-Axis Assembly: assembly_manual/chapters/x_axis_assembly.md
-      - Z-Axis Assembly: assembly_manual/chapters/z_axis_assembly.md
-      - Table Assembly: assembly_manual/chapters/table_assembly.md
-  - Electronics Manual:
-      - Introduction: electronics_manual/index.md
+  - Acknowledgements: acknowledgements.md
+  - Milo V1.5:
+    - Frequently Asked Questions: faq.md
+    - Sourcing Guide: bom/sourcing_guide.md
+    - Printing Guide: printing/print_guide.md
+    - Assembly Manual:
+        - Introduction: assembly_manual/chapters/introduction.md
+        - Hardware Reference: assembly_manual/chapters/hardware_reference.md
+        - Y-Axis Assembly: assembly_manual/chapters/y_axis_assembly.md
+        - X-Axis Assembly: assembly_manual/chapters/x_axis_assembly.md
+        - Z-Axis Assembly: assembly_manual/chapters/z_axis_assembly.md
+        - Table Assembly: assembly_manual/chapters/table_assembly.md
+    - Electronics Manual:
+        - Introduction: electronics_manual/chapters/introduction.md
+        - Install RRF: electronics_manual/chapters/install_rrf.md
+        - Assemble Electronics: electronics_manual/chapters/assemble_electronics.md
+        - Pre-Flight Checks: electronics_manual/chapters/pre_flight_checks.md
 
 extra_css:
   - stylesheets/extra.css

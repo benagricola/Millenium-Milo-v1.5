@@ -5,7 +5,6 @@ Made in a shed somewhere... probably.
 Chapters:
 
 - [Introduction](chapters/introduction.md)
-- [Acknowledgements](chapters/acknowledgements.md)
 - [Hardware Reference](chapters/hardware_reference.md)
 - [Table Assembly](chapters/table_assembly.md)
 - [Y-Axis Assembly](chapters/y_axis_assembly.md)
